@@ -1,0 +1,19 @@
+{
+  "name": "daying_app",
+  "version": "1.0.0",
+  "description": "个人练手app项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigEagleWY/daying_app.git"
+  },
+  "author": "daying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigEagleWY/daying_app/issues"
+  },
+  "homepage": "https://github.com/BigEagleWY/daying_app#readme"
+}
